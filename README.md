@@ -4,9 +4,13 @@ NOTE - IF YOU COMPILE INTO EXE, MAKE SURE THAT THE SCRIPT WON'T BE OBFUSCATED, I
 
 ___________________________________________________________________________
 VySecator - 1.1.0
+
 +-+-+-+-+-+-+-+-+-+
 |V|y|S|e|c|a|t|o|r|
 +-+-+-+-+-+-+-+-+-+
+
+
+
 SUPPORTED OS - Windows and Linux
 
 if you want to report Issues then report em here https://github.com/VySec-Secure/VySecator/issues
