@@ -13,3 +13,5 @@ Make Sure you have PYTHON3, Script is not compatible with Python Version 2
 Run the VySecator.py using 
 
 python3 ./VySecator.py
+
+![1](https://user-images.githubusercontent.com/67494275/85947264-3890b880-b967-11ea-9902-581bd2fb8ce2.JPG)
