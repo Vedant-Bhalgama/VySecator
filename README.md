@@ -1,5 +1,7 @@
-# VySecator # python # obfuscator # obfuscation tools # python obfuscation tool # python obfuscation
-Vysecator Is a Python Script Obfuscator Tool and .py to EXE converter also
+# VySecator - A Python Obfuscator Tool
+Vysecator Is a Python Script Obfuscator Tool and .py to EXE converter also.
+NOTE - IF YOU COMPILE INTO EXE, MAKE SURE THAT THE SCRIPT WON'T BE OBFUSCATED, I WILL BRING A UPDATE ON THAT ALSO VERY SOON.
+
 ___________________________________________________________________________
 VySecator - 1.1.0
 +-+-+-+-+-+-+-+-+-+
