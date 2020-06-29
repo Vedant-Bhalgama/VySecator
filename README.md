@@ -22,11 +22,11 @@ ___________________________________________________________________________
 It uses a combination of Pyarmor and PyInstaller, I would love to thank the Pyarmor and PyInstaller DEVS for making such a useful tool. 
 I have made this script so that it can be easy for people who don't know how to use Pyarmor or PyInstaller.
 
-Use this command for Installing VySecator.
+**Use this command for Installing VySecator.**
 
-git clone https://github.com/VySec-Secure/VySecator.git
+**git clone https://github.com/VySec-Secure/VySecator.git**
 
-Make Sure you have PYTHON3, Script is not compatible with Python Version 2
+**Make Sure you have PYTHON3, Script is not compatible with Python Version 2**
 
 Run the VySecator.py using 
 
@@ -43,4 +43,4 @@ After Installing you will see screen like this
 
 You can select your own choice, IF YOU WANT TO COMPILE TO EXE THEN CLICK ON 2, IF YOU JUST WANT TO OBFUSCATE THE SCRIPT THEN YOU SHOULD CLICK ON 1.
 
-AFTER SELECTING YOU NEED TO ENTER PATH OF THE SCRIPT, AFTER ADDING THE CORREC PATH, THE SCRIPT WILL BE GENERATED IN THE dist, FOLDER WILL BE LOCATED AT THE PLACE WHERE THE VySecator.py is.
+**AFTER SELECTING YOU NEED TO ENTER PATH OF THE SCRIPT, AFTER ADDING THE CORREC PATH, THE SCRIPT WILL BE GENERATED IN THE dist, FOLDER WILL BE LOCATED AT THE PLACE WHERE THE VySecator.py is.**
