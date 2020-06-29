@@ -51,4 +51,5 @@ There are 3 options available in VySecator
 
 
 **You can choose any of these options, All you have to do is, Select option and give Path of the Python Script which you wanna compile.**
-**ALL THE EXE OR THE OBFUSCATED PYTHON SCRIPTS WILL BE GENERATED IN A FOLDER CALLED dist, dist FOLDER WILL BE PRESENT IN THE DIRECTORY WHERE THE VySecator.py IS PRESENT.
+
+**ALL THE EXE OR THE OBFUSCATED PYTHON SCRIPTS WILL BE GENERATED IN A FOLDER CALLED dist, dist FOLDER WILL BE PRESENT IN THE DIRECTORY WHERE THE VySecator.py IS PRESENT.**
