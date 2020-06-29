@@ -35,13 +35,18 @@ Run the VySecator.py using
 ![1](https://user-images.githubusercontent.com/67494275/85947264-3890b880-b967-11ea-9902-581bd2fb8ce2.JPG)
 
 # Script Tutorial
+You will see a screen like this now.
 
-Now It will check for required modules, If not present, it will automatically Install them.
 
-After Installing you will see screen like this
+![Capture](https://user-images.githubusercontent.com/67494275/85971587-2c4e3f00-b9eb-11ea-99fc-7d4b6c8a4ad1.JPG)
 
-![2](https://user-images.githubusercontent.com/67494275/85947382-f3b95180-b967-11ea-9371-026cdb21ecdb.JPG)
 
-You can select your own choice, IF YOU WANT TO COMPILE TO EXE THEN CLICK ON 2, IF YOU JUST WANT TO OBFUSCATE THE SCRIPT THEN YOU SHOULD CLICK ON 1.
+There are 3 options available in VySecator
 
-**AFTER SELECTING YOU NEED TO ENTER PATH OF THE SCRIPT, AFTER ADDING THE CORREC PATH, THE SCRIPT WILL BE GENERATED IN THE dist, FOLDER WILL BE LOCATED AT THE PLACE WHERE THE VySecator.py is.**
+**1. Obfuscate
+2.Compile to EXE (Without Obfuscation)
+3.Compile to EXE (With Obfuscation)**
+
+
+**You can choose any of these options, All you have to do is, Select option and give Path of the Python Script which you wanna compile.**
+**ALL THE EXE OR THE OBFUSCATED PYTHON SCRIPTS WILL BE GENERATED IN A FOLDER CALLED dist, dist FOLDER WILL BE PRESENT IN THE DIRECTORY WHERE THE VySecator.py IS PRESENT.
