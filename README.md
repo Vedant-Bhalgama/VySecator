@@ -43,9 +43,11 @@ You will see a screen like this now.
 
 There are 3 options available in VySecator
 
-**1. Obfuscate
-2.Compile to EXE (Without Obfuscation)
-3.Compile to EXE (With Obfuscation)**
+**1. Obfuscate**
+
+**2.Compile to EXE (Without Obfuscation)**
+
+**3.Compile to EXE (With Obfuscation)**
 
 
 **You can choose any of these options, All you have to do is, Select option and give Path of the Python Script which you wanna compile.**
