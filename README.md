@@ -17,6 +17,7 @@ if you want to report Issues then report em here https://github.com/VySec-Secure
 PLEASE READ THE DOCUMENTATION BEFORE USING MY PROGRAM
 
 ___________________________________________________________________________
+# Installation
 
 It uses a combination of Pyarmor and PyInstaller, I would love to thank the Pyarmor and PyInstaller DEVS for making such a useful tool. 
 I have made this script so that it can be easy for people who don't know how to use Pyarmor or PyInstaller.
@@ -31,6 +32,8 @@ Run the VySecator.py using
 
 
 ![1](https://user-images.githubusercontent.com/67494275/85947264-3890b880-b967-11ea-9902-581bd2fb8ce2.JPG)
+
+# Script Tutorial
 
 Now It will check for required modules, If not present, it will automatically Install them.
 
