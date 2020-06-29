@@ -3,6 +3,7 @@ Vysecator Is a Python Script Obfuscator Tool and .py to EXE converter also.
 NOTE - IF YOU COMPILE INTO EXE, MAKE SURE THAT THE SCRIPT WON'T BE OBFUSCATED, I WILL BRING A UPDATE ON THAT ALSO VERY SOON.
 
 ___________________________________________________________________________
+# General Info about the Tool
 VySecator - 1.1.0
 
 +-+-+-+-+-+-+-+-+-+
@@ -11,7 +12,7 @@ VySecator - 1.1.0
 
 
 
-SUPPORTED OS - Windows and Linux
+**SUPPORTED OS - Windows and Linux**
 
 if you want to report Issues then report em here https://github.com/VySec-Secure/VySecator/issues
 PLEASE READ THE DOCUMENTATION BEFORE USING MY PROGRAM
