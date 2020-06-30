@@ -38,5 +38,4 @@ def obfuscate_and_compile(path):
         print("\n[+] Success In Compiling the Obfuscated Script")
 
 
-check_modules()
 obfuscate_and_compile("")
