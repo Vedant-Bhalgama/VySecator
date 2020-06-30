@@ -10,11 +10,7 @@ print("+-+-+-+-+-+-+-+-+-+")
 version = "Version Info : 1.1.0"
 print(version)
 
-def check_modules():
-    print("\n[+] Please wait, Checking for required modules")
-    subprocess.call("pip3 install pyarmor", shell=True)
-    subprocess.call("pip3 install pyinstaller", shell=True)
-    print("\n[+] All requirements Installed")
+
 
 def obfuscate_and_compile(path):
     print("__________________________")
