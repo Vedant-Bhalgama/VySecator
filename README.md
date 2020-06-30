@@ -20,6 +20,11 @@ PLEASE READ THE DOCUMENTATION BEFORE USING MY PROGRAM
 ___________________________________________________________________________
 # Installation
 
+**Make Sure to Install The requirements.txt file**
+
+**pip3 install -r requirements.txt**
+
+
 It uses a combination of Pyarmor and PyInstaller, I would love to thank the Pyarmor and PyInstaller DEVS for making such a useful tool. 
 I have made this script so that it can be easy for people who don't know how to use Pyarmor or PyInstaller.
 
