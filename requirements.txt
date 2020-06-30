@@ -1,0 +1,3 @@
+pyarmor==6.2.9
+PyInstaller==3.6
+
