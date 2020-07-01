@@ -31,7 +31,7 @@ def obfuscate_and_compile(path):
         subprocess.call("pyinstaller --onefile " + usr_input)
         print("[+] Success In Compiling Scripts")
         
-
+    
     if "3" in usr_input:
         usr_input = input("[+] Please provide the path of the script >> ")
         call_pyarmor(['pack', '-e', '--onefile --noconsole', usr_input])
