@@ -16,12 +16,10 @@ subprocess.call("cls", shell=True)
 
 
 def ask_user_choice():
-	print("______________________________________________")
-	print("\t(1) Obfuscate Python Script                |")
-	print("\t(2) Compile .py to EXE                     |")
-	print("\t(3) Obfuscate and Compile .py to EXE       |")
-	print("\nFor EG. >> use 1                           |")
-	print("_____________________________________________|")
+	print("\t(1) Obfuscate Python Script")
+	print("\t(2) Compile .py to EXE")
+	print("\t(3) Obfuscate and Compile .py to EXE")
+	print("\nFor EG. >> use 1")
 	user_input = raw_input("{+} Enter your choice >> ")
 
 	#Main Functions start from here
