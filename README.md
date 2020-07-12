@@ -6,14 +6,18 @@
 **VySecator uses Pyarmor and Pyinstaller both**
 
 SUPPORTED OS --> Windows and Linux
+
 Python Version Support --> Python Version 2 
 
 # CHANGELOGS
 **VySecator Version : 1.1.2**
 
  **--> Added Python version 2 support**
+ 
  **--> Fixed all the Bugs and errors**
+ 
  **--> Added a new requirements.txt file**
+ 
  
 # Installation
  --> Use the git clone command for cloning my Repository or simply click on Download as zip
