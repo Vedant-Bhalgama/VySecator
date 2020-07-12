@@ -34,6 +34,8 @@ Python Version Support --> Python Version 2
  ![Capture](https://user-images.githubusercontent.com/67494275/87252963-bfc84b00-c494-11ea-8cff-91cb2443e1f4.PNG)
 
  --> Now you will see 3 options as Follows
+ 
+ 
  ![Capture](https://user-images.githubusercontent.com/67494275/87253034-74fb0300-c495-11ea-8571-15b2a5115f5c.PNG)
  
  --> Now FOR.EG I want to use the 3rd one, The 3rd Option will obfuscate your script first and then Compile it to EXE,
