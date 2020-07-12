@@ -21,7 +21,7 @@ Python Version Support --> Python Version 2
      https://www.python.org/downloads/release/python-2718/
      
  --> After you have Python2, run the requirements.txt file as shown in the screenshot below.
- 
-    ![Capture](https://user-images.githubusercontent.com/67494275/87252887-26993480-c494-11ea-8571-dea7161c7338.PNG)
+
+![Capture](https://user-images.githubusercontent.com/67494275/87252887-26993480-c494-11ea-8571-dea7161c7338.PNG)
 
  
