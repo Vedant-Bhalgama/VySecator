@@ -1,3 +1,5 @@
 pyarmor==6.2.9
+pyfiglet==0.8.post1
 PyInstaller==3.6
+
 
