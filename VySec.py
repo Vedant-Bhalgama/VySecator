@@ -16,6 +16,7 @@ subprocess.call("cls", shell=True)
 
 
 def ask_user_choice():
+	print("\n")
 	print("\t(1) Obfuscate Python Script")
 	print("\t(2) Compile .py to EXE")
 	print("\t(3) Obfuscate and Compile .py to EXE")
