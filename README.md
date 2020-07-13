@@ -62,5 +62,6 @@ Python Version Support --> Python Version 2
  ![Capture](https://user-images.githubusercontent.com/67494275/87253147-63fec180-c496-11ea-86af-ec1a25035e0c.PNG)
 
 
- 
+# Bug and Issue Report
+ --> Make sure to report any bugs or issues here -> https://github.com/VySec-Secure/VySecator/issues
  
