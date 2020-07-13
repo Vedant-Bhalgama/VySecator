@@ -57,7 +57,7 @@ Python Version Support --> Python Version 2
  
  ![Capture](https://user-images.githubusercontent.com/67494275/87253117-33b72300-c496-11ea-92df-904d57a09169.PNG)
  
- --> Now check the folder in which YOUR ORIGINAL SCRIPT WAS THERE, You will see a folder called dist. All the Obfuscated Scripts and EXE are going to be stored in that folder.
+ **--> Now check the folder in which YOUR ORIGINAL SCRIPT WAS THERE, You will see a folder called dist. All the Obfuscated Scripts and EXE are going to be stored in that folder.**
  
  ![Capture](https://user-images.githubusercontent.com/67494275/87253147-63fec180-c496-11ea-86af-ec1a25035e0c.PNG)
 
