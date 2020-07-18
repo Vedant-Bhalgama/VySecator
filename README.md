@@ -33,6 +33,7 @@ Python Version Support --> Python Version 2
 
 # Using the Program
  --> Now In order to run the program, Just run using this command, Also refer to the Screenshot below.
+ 
  `python ./VySec.py`
  
  ![Capture](https://user-images.githubusercontent.com/67494275/87252963-bfc84b00-c494-11ea-8cff-91cb2443e1f4.PNG)
@@ -64,4 +65,6 @@ Python Version Support --> Python Version 2
 
 # Bug and Issue Report
  --> Make sure to report any bugs or issues here -> https://github.com/VySec-Secure/VySecator/issues
+ --> If no one replies within 48 Hours, Please mail your issue here 
+     -> `pentestmadefun@gmail.com`
  
