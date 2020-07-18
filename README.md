@@ -67,6 +67,6 @@ Python Version Support --> Python Version 2
  --> Make sure to report any bugs or issues here -> https://github.com/VySec-Secure/VySecator/issues
  
  --> If no one replies within 48 Hours, Please mail your issue here 
-     
-     -> `pentestmadefun@gmail.com`
+
+     `pentestmadefun@gmail.com`
  
