@@ -2,21 +2,30 @@
 **General Info about the tool**
 **VySecator Is a tool which can be used to Obfuscate your Python script. The tool comes with 3 Options. Obfuscate Python Script, Compile to EXE, Compile to EXE with Obfuscation.
 3rd Options is the most used by Hackers who program their own Malware and want to make it FUD.**
-
 **VySecator uses Pyarmor and Pyinstaller both**
+
+# Update 1.1.3
+**--> Added a new option in the menu which can Obfuscate and Compile EXE with a icon also.**
+**--> Fixed Bugs**
+**--> A new UI menu will BE BROUGHT IN FUTURE**
+
+
 
 SUPPORTED OS --> Windows and Linux
 
 Python Version Support --> Python Version 2 
 
 # CHANGELOGS
-**VySecator Version : 1.1.2**
+**VySecator Version : 1.1.3**
 
  **--> Added Python version 2 support**
  
  **--> Fixed all the Bugs and errors**
  
  **--> Added a new requirements.txt file**
+ 
+ **--> Added 4th Option in the menu**
+ 
  
  
 # Installation
@@ -38,11 +47,11 @@ Python Version Support --> Python Version 2
  
  ![Capture](https://user-images.githubusercontent.com/67494275/87252963-bfc84b00-c494-11ea-8cff-91cb2443e1f4.PNG)
 
- --> Now you will see 3 options as Follows
+ --> Now you will see 4 options as Follows
  
  
- ![Capture](https://user-images.githubusercontent.com/67494275/87253034-74fb0300-c495-11ea-8571-15b2a5115f5c.PNG)
- 
+ ![Capture](https://user-images.githubusercontent.com/67494275/87945051-d4709880-cabd-11ea-9087-019300a381fd.PNG)
+
  --> Now FOR.EG I want to use the 3rd one, The 3rd Option will obfuscate your script first and then Compile it to EXE,
      This is the main Reason why this is very important for Hackers who program their Malwares on their own!
  --> In Order to Use any Options just type
