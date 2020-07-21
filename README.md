@@ -20,9 +20,12 @@ Python Version Support --> Python Version 2
 
  **--> Added Python version 2 support**
  
+ 
  **--> Fixed all the Bugs and errors**
  
+ 
  **--> Added a new requirements.txt file**
+ 
  
  **--> Added 4th Option in the menu**
  
