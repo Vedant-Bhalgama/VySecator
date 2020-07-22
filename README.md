@@ -15,7 +15,7 @@ https://zsecurity.org/vysecator-a-useful-tool-made-for-hackers-and-by-hackers/
 
 
 
-SUPPORTED OS --> Windows ONLY!
+**SUPPORTED OS --> Windows ONLY!**
 
 Python Version Support --> Python Version 2 
 
