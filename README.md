@@ -11,8 +11,10 @@
 
 # Update 1.1.4
 
-**--> Added a new and interactive UI Menu
-**--> Added a option for Exit
+**--> Added a new and interactive UI Menu**
+
+**--> Added a option for Exit**
+
 **--> Fixed Bugs**
 
 # OS Support
