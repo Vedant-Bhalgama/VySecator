@@ -24,7 +24,7 @@ ascii_banner = pyfiglet.figlet_format("VySecator")
 print(ascii_banner)
 
 print("VySecator - Program Built for Hackers, By Hackers ;)")
-print("Version : 1.1.3")
+print("Version : 1.1.4")
 print("\nGitHub Profile :: https://github.com/Vedant-Bhalgama")
 raw_input("\nVySec>: Press any key to continue ")
 clear_output()
