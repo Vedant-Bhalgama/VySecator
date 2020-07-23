@@ -5,19 +5,22 @@
 **VySecator uses Pyarmor and Pyinstaller both**
 
 # Read the tool article on ZSecurity's Website!
-https://zsecurity.org/vysecator-a-useful-tool-made-for-hackers-and-by-hackers/
---> 
+
+--> https://zsecurity.org/vysecator-a-useful-tool-made-for-hackers-and-by-hackers/
+
 
 # Update 1.1.3
 **--> Added a new option in the menu which can Obfuscate and Compile EXE with a icon also.**
+
 **--> Fixed Bugs**
+
 **--> A new UI menu will BE BROUGHT IN FUTURE**
 
 
 
 **SUPPORTED OS --> Windows ONLY!**
 
-Python Version Support --> Python Version 2 
+Python Version Support Python Version 2 
 
 # CHANGELOGS
 **VySecator Version : 1.1.3**
