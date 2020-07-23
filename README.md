@@ -8,6 +8,10 @@
 
 --> https://zsecurity.org/vysecator-a-useful-tool-made-for-hackers-and-by-hackers/
 
+# Make sure to visit my WebSite for more Blogs on Making Malwares and etc!
+
+- - > https://ardu-geek.weebly.com/python-projects.html
+
 
 # Update 1.1.4
 
