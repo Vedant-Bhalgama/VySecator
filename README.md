@@ -9,34 +9,19 @@
 --> https://zsecurity.org/vysecator-a-useful-tool-made-for-hackers-and-by-hackers/
 
 
-# Update 1.1.3
-**--> Added a new option in the menu which can Obfuscate and Compile EXE with a icon also.**
+# Update 1.1.4
 
+**--> Added a new and interactive UI Menu
+**--> Added a option for Exit
 **--> Fixed Bugs**
 
-**--> A new UI menu will BE BROUGHT IN FUTURE**
+# OS Support
 
+**--> Windows ONLY!**
 
+# Python Version Support
 
-**SUPPORTED OS --> Windows ONLY!**
-
-Python Version Support Python Version 2 
-
-# CHANGELOGS
-**VySecator Version : 1.1.3**
-
- **--> Added Python version 2 support**
- 
- 
- **--> Fixed all the Bugs and errors**
- 
- 
- **--> Added a new requirements.txt file**
- 
- 
- **--> Added 4th Option in the menu**
- 
- 
+**--> Python Version 2 or +** 
  
 # Installation
  --> Use the git clone command for cloning my Repository or simply click on Download as zip
@@ -57,17 +42,20 @@ Python Version Support Python Version 2
  
  ![Capture](https://user-images.githubusercontent.com/67494275/87252963-bfc84b00-c494-11ea-8cff-91cb2443e1f4.PNG)
 
- --> Now you will see 4 options as Follows
+ --> Now you will see 5 options as Follows
  
- 
- ![Capture](https://user-images.githubusercontent.com/67494275/87945051-d4709880-cabd-11ea-9087-019300a381fd.PNG)
+![Capture](https://user-images.githubusercontent.com/67494275/88302398-6fb67780-cd23-11ea-9e7b-65eeb5488388.PNG)
 
  --> Now FOR.EG I want to use the 3rd one, The 3rd Option will obfuscate your script first and then Compile it to EXE,
      This is the main Reason why this is very important for Hackers who program their Malwares on their own!
  --> In Order to Use any Options just type
+ 
      use 1
      use 2
      use 3
+     use 4
+     use 5
+     
  --> After you choose your option. All you have to do is give the Path where your script is present
  
 ![Capture](https://user-images.githubusercontent.com/67494275/87253103-15e9be00-c496-11ea-92cc-c1cafd60eca3.PNG)
