@@ -81,5 +81,5 @@
  
  --> If no one replies within 48 Hours, Please mail your issue here 
 
-     `pentestmadefun@gmail.com`
+     - - > pentestmadefun@outlook.com
  
