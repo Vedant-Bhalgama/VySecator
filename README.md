@@ -4,6 +4,9 @@
 3rd Options is the most used by Hackers who program their own Malware and want to make it FUD.**
 **VySecator uses Pyarmor and Pyinstaller both**
 
+# Read Article of tool on my Website
+--> https://ardu-geek.weebly.com/python-projects/learn-to-obfuscate-your-malware-and-compile-to-exe
+
 # Read the tool article on ZSecurity's Website!
 
 --> https://zsecurity.org/vysecator-a-useful-tool-made-for-hackers-and-by-hackers/
