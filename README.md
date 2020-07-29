@@ -88,3 +88,7 @@
 
      - - > pentestmadefun@outlook.com
  
+# What's going to be in new update ?
+
+--> I am going to release a Kali Linux version of VySecator and will remove support for Windows Machines.
+--> Adding Kali Linux is more better as most of the Hackers use Kali Linux only so I will be removing the Windows Version of VySecator soon.
