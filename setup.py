@@ -16,8 +16,8 @@ success = Fore.GREEN
 
 try:
     def setup():
-        ascii_banner = pyfiglet.figlet_format("VySec Setup")
-        print(ascii_banner)
+        asc = pyfiglet.figlet_format("VySec Setup")
+        print(asc)
         print(Fore.YELLOW + "\n[+] Setup File Version 1.1.0")
         print(Fore.YELLOW + "\n[+] Setup Build Date : ")
         print(Fore.YELLOW + "\n[+] Detected OS : " + platform.system())
