@@ -28,6 +28,7 @@ try:
         if "y" in start_installation:
             print("\n[+] Starting Installation .... Sit Back and Relax!")
             print(Fore.CYAN + "\n[+] Updating Packages using apt-get update")
+            subprocess.call("sudo apt-get update", shell=True)
             print(Fore.CYAN + "\n\t[+] Installing Wine")
             print(Fore.YELLOW + "\n")
             subprocess.call("\n\nsudo apt-get install wine32", shell=True)
