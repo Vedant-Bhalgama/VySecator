@@ -39,6 +39,11 @@
 
 ![setup](https://user-images.githubusercontent.com/67494275/88782577-6148df80-d1ab-11ea-9627-d008c1aa2f0e.PNG)
 
+- - > MAKE SURE THAT ALL FILES ARE IN THE SAME DIRECTORY LIKE THIS
+
+![Capture](https://user-images.githubusercontent.com/67494275/88787425-76287180-d1b1-11ea-92a2-b30871019e79.PNG)
+
+
 
 # Using the Program
  --> Now In order to run the program, Just run using this command, Also refer to the Screenshot below.
