@@ -16,7 +16,7 @@ success = Fore.GREEN
 
 try:
     def setup():
-        ascii_banner = pyfiglet.figlet_format("VySec Setup")
+        ascii_banner = pyfiglet.figlet_format("Avyukt Setup")
         print(ascii_banner)
         print(Fore.YELLOW + "\n[+] Setup File Version 1.1.0")
         print(Fore.YELLOW + "\n[+] Setup Build Date : ")
@@ -27,8 +27,7 @@ try:
         start_installation = raw_input("\nAvyukt>: Type y if you want to start installation else n >> ")
         if "y" in start_installation:
             print("\n[+] Starting Installation .... Sit Back and Relax!")
-            print(Fore.CYAN + "\n\t[+] Updating Packages using apt-get update")
-            os.system("sudo apt-get update")
+            print(Fore.CYAN + "\n[+] Updating Packages using apt-get update")
             print(Fore.CYAN + "\n\t[+] Installing Wine")
             print(Fore.YELLOW + "\n")
             subprocess.call("\n\nsudo apt-get install wine32", shell=True)
@@ -51,6 +50,5 @@ try:
             print(error_message + "[+] Quitting setup ..")
 except FileNotFoundError:
     print(error_message + "[+] Error while Building setup.py")
-
 
 setup()
