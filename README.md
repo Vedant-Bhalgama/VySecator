@@ -66,7 +66,7 @@
  --> Now It will start doing the things sit back and relax!
  --> After it completes you will see something like this at the end
  
- ![Capture](https://user-images.githubusercontent.com/67494275/87253117-33b72300-c496-11ea-92df-904d57a09169.PNG)
+![output](https://user-images.githubusercontent.com/67494275/88783625-a4f01900-d1ac-11ea-845b-daed3b024380.png)
  
 --> Now to find the script, You can see in the image above a Blue Line is there, The final EXE will be in that path.
 
