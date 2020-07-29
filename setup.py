@@ -9,7 +9,7 @@ try:
     import pyfiglet
 except ImportError:
     subprocess.call("pip install colorama", shell=True)
-    subprocess.call("pip install pyfiglet, shell=True")
+    subprocess.call("pip install pyfiglet", shell=True")
 
 error_message = Fore.RED
 success = Fore.GREEN
