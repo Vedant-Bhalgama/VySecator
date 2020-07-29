@@ -2,21 +2,17 @@
 **General Info about the tool**
 **VySecator Is a tool which can be used to Obfuscate your Python script. The tool comes with 3 Options. Obfuscate Python Script, Compile to EXE, Compile to EXE with Obfuscation.
 3rd Options is the most used by Hackers who program their own Malware and want to make it FUD.**
-**VySecator uses Pyarmor and Pyinstaller both**
+**VySecator uses Wine which makes it possible to generate Windows Executables in Linux**
 
-# Read Article of tool on my Website
---> https://ardu-geek.weebly.com/python-projects/learn-to-obfuscate-your-malware-and-compile-to-exe
 
 # Read the tool article on ZSecurity's Website!
 
 --> https://zsecurity.org/vysecator-a-useful-tool-made-for-hackers-and-by-hackers/
 
-# Make sure to visit my WebSite for more Blogs on Making Malwares and etc!
 
-- - > https://ardu-geek.weebly.com/python-projects.html
+# Update 1.1.5
 
-
-# Update 1.1.4
+**--> Removed Windows Version, VySecator will only work on Kali Linux From Now**
 
 **--> Fixed a Indent Bug in VySec.py**
 
@@ -28,35 +24,31 @@
 
 # OS Support
 
-**--> Windows ONLY!**
+--> Linux only (Kali Linux is suggested)
 
-# Python Version Support
-
-**--> Python Version 2 or +** 
  
 # Installation
  --> Use the git clone command for cloning my Repository or simply click on Download as zip
      https://github.com/VySec-Secure/VySecator.git
  
- --> After downloading first of all make sure that you have Python 2 Installed. If not, Please Install it from here.
-     https://www.python.org/downloads/release/python-2718/
-     
- --> After you have Python2, run the requirements.txt file as shown in the screenshot below.
-    `pip install -r requirements.txt`
-  
-![Capture](https://user-images.githubusercontent.com/67494275/87252887-26993480-c494-11ea-8571-dea7161c7338.PNG)
+--> After you have the files, Run the setup.py
+
+--> setup.py will install all the dependencies such as wine, PyArmor, PyInstaller and also it will Install Windows Python under wine
+
+![VySecstup](https://user-images.githubusercontent.com/67494275/88782304-0c0cce00-d1ab-11ea-9015-0bfa077022dc.PNG)
+
+![setup](https://user-images.githubusercontent.com/67494275/88782577-6148df80-d1ab-11ea-9627-d008c1aa2f0e.PNG)
+
 
 # Using the Program
  --> Now In order to run the program, Just run using this command, Also refer to the Screenshot below.
  
  `python ./VySec.py`
  
- ![Capture](https://user-images.githubusercontent.com/67494275/87252963-bfc84b00-c494-11ea-8cff-91cb2443e1f4.PNG)
+![Main menu](https://user-images.githubusercontent.com/67494275/88782664-77ef3680-d1ab-11ea-894e-8db597bcdb4d.PNG)
 
- --> Now you will see 5 options as Follows
+ --> Now you will see 4 options as Follows
  
-![Capture](https://user-images.githubusercontent.com/67494275/88302398-6fb67780-cd23-11ea-9e7b-65eeb5488388.PNG)
-
  --> Now FOR.EG I want to use the 3rd one, The 3rd Option will obfuscate your script first and then Compile it to EXE,
      This is the main Reason why this is very important for Hackers who program their Malwares on their own!
  --> In Order to Use any Options just type
@@ -65,20 +57,22 @@
      use 2
      use 3
      use 4
-     use 5
      
  --> After you choose your option. All you have to do is give the Path where your script is present
  
-![Capture](https://user-images.githubusercontent.com/67494275/87253103-15e9be00-c496-11ea-92cc-c1cafd60eca3.PNG)
- 
+![options](https://user-images.githubusercontent.com/67494275/88782819-a79e3e80-d1ab-11ea-8e1a-1b2c518b753f.PNG)
+
+
  --> Now It will start doing the things sit back and relax!
  --> After it completes you will see something like this at the end
  
  ![Capture](https://user-images.githubusercontent.com/67494275/87253117-33b72300-c496-11ea-92df-904d57a09169.PNG)
  
- **--> Now check the folder in which YOUR ORIGINAL SCRIPT WAS THERE, You will see a folder called dist. All the Obfuscated Scripts and EXE are going to be stored in that folder.**
- 
- ![Capture](https://user-images.githubusercontent.com/67494275/87253147-63fec180-c496-11ea-86af-ec1a25035e0c.PNG)
+--> Now to find the script, You can see in the image above a Blue Line is there, The final EXE will be in that path.
+
+--> See the final path of our test script here
+
+![Capture](https://user-images.githubusercontent.com/67494275/88783271-30b57580-d1ac-11ea-8e50-137a77c39853.PNG)
 
 
 # Bug and Issue Report
@@ -88,8 +82,7 @@
 
      - - > pentestmadefun@outlook.com
  
-# What's going to be in new update ?
 
-**--> I am going to release a Kali Linux version of VySecator and will remove support for Windows Machines.**
+# Why removed Windows Version?
 
-**--> Adding Kali Linux is more better as most of the Hackers use Kali Linux only so I will be removing the Windows Version of VySecator soon.**
+**--> I had to remove the Windows Version because this program is mainly made for Ethical Hackers, Which makes it easy for using them in Kali Linux.**
