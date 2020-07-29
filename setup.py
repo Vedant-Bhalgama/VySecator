@@ -16,7 +16,7 @@ success = Fore.GREEN
 
 try:
     def setup():
-        ascii_banner = pyfiglet.figlet_format("Avyukt Setup")
+        ascii_banner = pyfiglet.figlet_format("VySec Setup")
         print(ascii_banner)
         print(Fore.YELLOW + "\n[+] Setup File Version 1.1.0")
         print(Fore.YELLOW + "\n[+] Setup Build Date : ")
