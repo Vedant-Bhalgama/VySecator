@@ -30,10 +30,6 @@
 # Installation
  --> Use the git clone command for cloning my Repository or simply click on Download as zip
      https://github.com/VySec-Secure/VySecator.git
-     
-- - > MAKE SURE THAT ALL FILES ARE IN THE SAME DIRECTORY LIKE THIS
-
-![Capture](https://user-images.githubusercontent.com/67494275/88787425-76287180-d1b1-11ea-92a2-b30871019e79.PNG)
  
 --> After you have the files, Run the setup.py
 
