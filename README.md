@@ -51,6 +51,7 @@
  
  --> Now FOR.EG I want to use the 3rd one, The 3rd Option will obfuscate your script first and then Compile it to EXE,
      This is the main Reason why this is very important for Hackers who program their Malwares on their own!
+     
  --> In Order to Use any Options just type
  
      use 1
@@ -64,6 +65,7 @@
 
 
  --> Now It will start doing the things sit back and relax!
+ 
  --> After it completes you will see something like this at the end
  
 ![output](https://user-images.githubusercontent.com/67494275/88783625-a4f01900-d1ac-11ea-845b-daed3b024380.png)
