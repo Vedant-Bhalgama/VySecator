@@ -4,6 +4,9 @@
 3rd Options is the most used by Hackers who program their own Malware and want to make it FUD.**
 **VySecator uses Wine which makes it possible to generate Windows Executables in Linux**
 
+# Note 
+
+--> My tool doesn't work for MsfVenom Payloads, I will bring a update in Future which will consist of Obfuscating and Compiling MsfVenom Python Payloads also.
 
 # Read the tool article on ZSecurity's Website!
 
