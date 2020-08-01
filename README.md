@@ -105,5 +105,5 @@ Which makes it easy for using them in Kali Linux ;)**
       
 # What's new in Future Update 1.1.7 ?
 
-**--> I am thinking to add a different option to Obfuscate and Compile MsfVenom Payloads to EXE (Python Payloads)
+**--> I am thinking to add a different option to Obfuscate and Compile MsfVenom Payloads to EXE (Python Payloads)**
       
