@@ -15,7 +15,7 @@
 
 # Update 1.1.6
 
-**--> Added a new feature in option 2 and option 3. Now you can also add your custom icon (.ico) to the EXE.
+**--> Added a new feature in option 2 and option 3. Now you can also add your custom icon (.ico) to the EXE.**
 
 
 **--> Fixed Bugs**
