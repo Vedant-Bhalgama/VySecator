@@ -13,10 +13,9 @@
 --> https://zsecurity.org/vysecator-a-useful-tool-made-for-hackers-and-by-hackers/
 
 
-# Update 1.1.6
+# Update 1.1.7
 
-**--> Added a new feature in option 2 and option 3. Now you can also add your custom icon (.ico) to the EXE.**
-
+**--> Fixed some spaces and indent bugs**p
 
 **--> Fixed Bugs**
 
@@ -27,8 +26,10 @@
  
 # Installation
  --> Use the git clone command for cloning my Repository or simply click on Download as zip
-     https://github.com/VySec-Secure/VySecator.git
  
+      `https://github.com/Vedant-Bhalgama/VySecator.git`
+      
+     
 --> After you have the files, Run the setup.py
 
 --> setup.py will install all the dependencies such as wine, PyArmor, PyInstaller and also it will Install Windows Python under wine
@@ -103,7 +104,7 @@
 **I had to remove the Windows Version because this program is mainly made for Ethical Hackers, 
 Which makes it easy for using them in Kali Linux ;)**
       
-# What's new in Future Update 1.1.7 ?
+# What's new in Future Update 1.1.8 ?
 
-**--> I am thinking to add a different option to Obfuscate and Compile MsfVenom Payloads to EXE (Python Payloads)**
+**--> I am thinking to add a different option to Obfuscate and Compile MsfVenom Payloads to EXE (Python Payloads) (I still haven't figured out a way, I am still trying hard for it! Please be paitent)**
       
