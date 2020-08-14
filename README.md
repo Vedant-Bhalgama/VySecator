@@ -15,13 +15,15 @@
 
 # Update 1.1.7
 
-**--> Fixed some spaces and indent bugs**p
+**--> Fixed some spaces and indent bugs**
 
 **--> Fixed Bugs**
 
 # OS Support
 
---> Linux only (Kali Linux is suggested)
+--> Other OS testing is still left (Ubuntu, Parrot, etc.)
+
+--> Kali Linux
 
  
 # Installation
