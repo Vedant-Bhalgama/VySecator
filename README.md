@@ -29,7 +29,7 @@
 # Installation
  --> Use the git clone command for cloning my Repository or simply click on Download as zip
  
- `https://github.com/Vedant-Bhalgama/VySecator.git`
+ `git clone https://github.com/Vedant-Bhalgama/VySecator.git`
       
      
 --> After you have the files, Run the setup.py
