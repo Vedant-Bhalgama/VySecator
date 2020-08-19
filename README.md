@@ -1,7 +1,7 @@
 # VySecator - A useful tool made for Hackers and By Hackers ;)
 **General Info about the tool**
 **VySecator Is a tool which can be used to Obfuscate your Python script. The tool comes with 3 Options. Obfuscate Python Script, Compile to EXE, Compile to EXE with Obfuscation.
-3rd Options is the most used by Hackers who program their own Malware and want to make it FUD.**
+3rd Options is the most used by Hackers who program their own Malware and want to make it FUD. My tool is using Pyarmor and PyInstaller for Compiling the programs to Executable. I respect the developers of PyInstaller and PyArmor and clearly give them the half credit**
 **VySecator uses Wine which makes it possible to generate Windows Executables in Linux**
 
 # Note 
