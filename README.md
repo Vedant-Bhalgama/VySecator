@@ -98,7 +98,7 @@
  
  --> If no one replies within 48 Hours, Please mail your issue here 
 
-     - - > 5016.stkabirdio@gmail.com
+     - - > pentestmadefun@gmail.com
  
 
 # Why removed Windows Version?
