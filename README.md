@@ -95,20 +95,4 @@
 
 # Bug and Issue Report
  --> Make sure to report any bugs or issues here -> https://github.com/VySec-Secure/VySecator/issues
- 
- --> If no one replies within 48 Hours, Please mail your issue here 
-
-     - - > pentestmadefun@gmail.com
- 
-
-# Why removed Windows Version?
-
-**I had to remove the Windows Version because this program is mainly made for Ethical Hackers, 
-Which makes it easy for using them in Kali Linux ;)**
-      
-# What's new in Future Update 1.1.8 ?
-
-**--> I am thinking to add a different option to Obfuscate and Compile MsfVenom Payloads to EXE (Python Payloads) (I still haven't figured out a way, I am still trying hard for it! Please be paitent)**
-
-**--> I am going to add support for other Linux Distros like Parrot, Ubuntu, etc.**
       
